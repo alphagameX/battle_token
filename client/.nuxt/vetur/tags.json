@@ -1,0 +1,68 @@
+{
+  "GlobalLogin": {
+    "description": "Auto imported from components/Global/GlobalLogin.vue"
+  },
+  "GlobalLogo": {
+    "description": "Auto imported from components/Global/GlobalLogo.vue"
+  },
+  "Card": {
+    "description": "Auto imported from components/Card/Card.vue"
+  },
+  "CardGroup": {
+    "description": "Auto imported from components/Card/CardGroup.vue"
+  },
+  "DashboardMenu": {
+    "description": "Auto imported from components/Dashboard/DashboardMenu/DashboardMenu.vue"
+  },
+  "DashboardMenuConfrontation": {
+    "description": "Auto imported from components/Dashboard/DashboardMenu/DashboardMenuConfrontation.vue"
+  },
+  "DashboardPageMyClub": {
+    "description": "Auto imported from components/Dashboard/DashboardPage/DashboardPageMyClub.vue"
+  },
+  "DashboardPanelData": {
+    "description": "Auto imported from components/Dashboard/DashboardPanel/DashboardPanelData.vue"
+  },
+  "DashboardPanelMatch": {
+    "description": "Auto imported from components/Dashboard/DashboardPanel/DashboardPanelMatch.vue"
+  },
+  "DashboardPanelUser": {
+    "description": "Auto imported from components/Dashboard/DashboardPanel/DashboardPanelUser.vue"
+  },
+  "HomeFeature": {
+    "description": "Auto imported from components/Home/HomeFeature.vue"
+  },
+  "MatchSwiper": {
+    "description": "Auto imported from components/Match/MatchSwiper.vue"
+  },
+  "PopupLogout": {
+    "description": "Auto imported from components/Popup/PopupLogout.vue"
+  },
+  "PopupTutorial": {
+    "description": "Auto imported from components/Popup/PopupTutorial.vue"
+  },
+  "SwiperContainer": {
+    "description": "Auto imported from components/Swiper/SwiperContainer.vue"
+  },
+  "SwiperSlide": {
+    "description": "Auto imported from components/Swiper/SwiperSlide.vue"
+  },
+  "TutorialModel": {
+    "description": "Auto imported from components/Tutorial/TutorialModel.vue"
+  },
+  "TutorialSlide1": {
+    "description": "Auto imported from components/Tutorial/TutorialSlide1.vue"
+  },
+  "TutorialSlide2": {
+    "description": "Auto imported from components/Tutorial/TutorialSlide2.vue"
+  },
+  "TutorialSlide3": {
+    "description": "Auto imported from components/Tutorial/TutorialSlide3.vue"
+  },
+  "TutorialSubmit": {
+    "description": "Auto imported from components/Tutorial/TutorialSubmit.vue"
+  },
+  "TemplateTheNavbar": {
+    "description": "Auto imported from components/Template/TheNavbar.vue"
+  }
+}

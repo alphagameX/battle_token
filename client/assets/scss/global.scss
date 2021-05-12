@@ -1,0 +1,23 @@
+.notif {
+
+  h3,
+  span {
+    font-weight: 700;
+  }
+
+  span {
+    color: $color1;
+  }
+
+  p {
+    font-size: 0.9rem;
+
+    span {
+      cursor: pointer;
+    }
+  }
+}
+
+#__nuxt {
+  background-color: $color3;
+}

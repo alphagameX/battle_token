@@ -1,0 +1,20 @@
+[
+  {
+    "name": "dashboard",
+    "path": "/dashboard",
+    "component": "/Users/arthurtinseau/Desktop/Codage/Project/BattleToken/client/pages/dashboard.vue",
+    "chunkName": "pages/dashboard"
+  },
+  {
+    "name": "tutorial",
+    "path": "/tutorial",
+    "component": "/Users/arthurtinseau/Desktop/Codage/Project/BattleToken/client/pages/tutorial.vue",
+    "chunkName": "pages/tutorial"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/arthurtinseau/Desktop/Codage/Project/BattleToken/client/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]

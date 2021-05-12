@@ -1,0 +1,145 @@
+
+// var
+
+$mobile_1: 950px;
+$mobile_2: 850px;
+$color1: #ff4657;
+$color2: #4028ed;
+$color3: #e5e5ff;
+
+// keyframe
+
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  src: url('~assets/fonts/Poppins-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  src: url('~assets/fonts/Poppins-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  src: url('~assets/fonts/Poppins-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  src: url('~assets/fonts/Poppins-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  src: url('~assets/fonts/Poppins-Bold.ttf') format('truetype');
+}
+
+
+@keyframes loop {
+    0% {
+      transform: translateY(0);
+    }
+
+    50% {
+      transform: translateY(10px);
+    }
+
+    60% {
+      transform: translateY(0);
+    }
+
+    70% {
+      transform: translateY(5px);
+    }
+
+    80% {
+      transform: translateY(0);
+    }
+
+    90% {
+      transform: translateY(2.5px);
+    }
+
+    100% {
+      transform: translateY(0);
+    }
+}
+
+@keyframes shake {
+  0% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(-10px);
+  }
+
+  60% {
+    transform: translateY(0);
+  }
+
+  70% {
+    transform: translateY(-5px);
+  }
+
+  80% {
+    transform: translateY(0);
+  }
+
+  90% {
+    transform: translateY(-2.5px);
+  }
+
+  100% {
+    transform: translateY(0);
+  }
+}
+
+
+@keyframes pulse {
+  0% { background-color: #ff1717; }
+  50% { background-color: #f7746e; }
+  100% { background-color: #ff1717; }
+}
+
+// transition 
+
+.fade-enter-active,
+.fade-leave-active {
+    transition: opacity .5s;
+}
+
+.fade-enter,
+.fade-leave-to {
+    opacity: 0;
+}
+
+
+
+// leave
+.layout-enter-active {
+  transition: all 0.3s ease;
+}
+
+.layout-leave-active {
+  transition: all 0.3s ease;
+}
+
+
+.layout-enter {
+  transform: translateY(100vh);
+} 
+
+.layout-leave-to { 
+  transform: translateX(-100vw);
+}
